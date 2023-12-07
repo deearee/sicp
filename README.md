@@ -1,0 +1,1 @@
+My solutions to excercises from the book "Structure and Intepretation of Computer Programs". WIP
